@@ -7,7 +7,7 @@ Hi! I'm a Computer Science student at Washington University in Stl graduating in
 - 🛠️ Working on a multithreaded TCP proxy server for Minecraft 1.8.9 & Protocol 47
 - 📄 C | C++ | Java | Python | JavaScript
 - 📘 Concurrency | Parallelism | DSA | Object Oriented Programming | Compression | Basic encryption
-- 🖥️ Linux | AVR Arduino | Raspberry Pi
+- 🖥️ Linux | AVR Arduino
 
 Check out my projects below
 
