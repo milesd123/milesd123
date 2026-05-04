@@ -1,6 +1,6 @@
 # Miles Dripps
 
-Hi! I'm a Computer Science student at Washington University in Stl graduating in May 2027, I enjoy coding projects and working in teams. Connect with me on <a href="https://www.linkedin.com/in/miles-dripps-4510aa2b4/">LinkedIn</a>!
+I'm a Computer Science student at Washington University in St Louis graduating May '27, I enjoy designing systems and programs both collaborative & solo. Connect with me on <a href="https://www.linkedin.com/in/miles-dripps-4510aa2b4/">LinkedIn</a>!
 
 
 - 🌱 Learning C, C++, linux, & operating system design
