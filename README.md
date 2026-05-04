@@ -5,8 +5,9 @@ Hi! I'm a Computer Science student at Washington University in Stl graduating in
 
 - 🌱 Learning C, C++, linux, & operating system design
 - 🛠️ Working on a multithreaded TCP proxy server for Minecraft 1.8.9 & Protocol 47
-- 📄 C | C++ | Java | Python | JavaScript
-- 📘 Concurrency | Parallelism | DSA | Object Oriented Programming | Compression | Basic encryption
+- 🛠️ Using avr-gcc/libc + avrdude to program the atm328p on an arduino uno board without any IDE help.
+- 📄 C | C++ | Java | Python
+- 📘 Concurrency | Parallelism | DSA | Object Oriented Programming | AVR
 - 🖥️ Linux | AVR Arduino
 
 Check out my projects below
