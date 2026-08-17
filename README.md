@@ -1,12 +1,11 @@
 # Miles Dripps
 
-I'm a Computer Science student at Washington University in St Louis graduating May '27. Connect with me on <a href="https://www.linkedin.com/in/miles-dripps-4510aa2b4/">LinkedIn</a>!
+I am a Computer Science student at Washington University in St Louis graduating May '27. Connect with me on <a href="https://www.linkedin.com/in/miles-dripps-4510aa2b4/">LinkedIn</a>!
 
 My Interests and Skills:
 - Microcontrollers, AVR and STM32 programming (bare metal and RTOS)
 - Parallel and Concurrent programming
 - C, C++, Java
-- 
 
 Check out my projects below
 
